@@ -54,14 +54,6 @@ To cast your own prediction spell and replicate the results, follow these enchan
 2. 🧙‍♂️ Run the notebooks and scripts in the specified order.
 3. 🔮 Evaluate model performance and choose the mightiest model of them all!
 
-## 🤝 Contributing
-
-Want to join this quest to predict the future? Check out the [contributing guidelines](CONTRIBUTING.md) to become a part of the magical team!
-
-## 📜 License
-
-This project is enchanted under the [MIT License](LICENSE). Feel free to work your magic with it!
-
 ---
 
 Join me on this thrilling journey of predicting employee attrition with style and flair! Let's make employee retention great again! 🌟✨💼🔮🚀
